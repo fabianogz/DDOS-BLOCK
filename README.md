@@ -41,7 +41,7 @@ O autor não se responsabiliza por usos indevidos ou ilegais deste código.
     ```
 3. Execute o programa:
     ```bash
-    python bloqueador.py
+    python ddos-block.py
     ```
 4. Digite a porta que deseja monitorar e clique em "Iniciar Monitoramento".
 5. Observe os IPs na lista e bloqueie os suspeitos com o botão "Bloquear IP Selecionado".
